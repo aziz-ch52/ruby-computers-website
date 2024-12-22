@@ -1,8 +1,8 @@
 # Ruby-Computers-Website
 This repository contains the source code for the Ruby Computers website. Developed as my first project, it includes a static webpage featuring product displays and essential information about the company's offerings. The site is designed to provide a clean and professional presentation of Ruby Computers' products and services.
 
-# Ruby Computers - Static Website
-
+<br>
+  
 ## Overview
 
 Ruby Computers is a fully static, responsive website designed to showcase the wide array of products and services offered by Ruby Computers. The website serves as a digital catalog, providing users with an intuitive platform to explore and learn more about the company's offerings in the world of computer hardware, software, and IT services.
